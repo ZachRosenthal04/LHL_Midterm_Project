@@ -1,1 +1,107 @@
-# LHL_Midterm_Project
+# LHL_Midterm_Project/Tequila Sales Data Analysis Project
+
+## Disclaimer
+
+The information provided in this repository has been altered to protect the company's intellectual property. Specific product names (SKUs) and certain financial figures have been slightly modified. While these changes do not affect the overall patterns and insights derived from the data analysis, they ensure that sensitive business information remains confidential.
+
+## Introduction
+
+A tequila company has amassed an extensive collection of sales data from its global market operations. This project aims to steer the company toward a data-centric approach, transforming raw data into strategic insights that drive business decisions.
+
+## Problem Statement
+
+The company boasts an array of tequila products and a substantial market presence. However, the absence of a data-driven framework has led to underutilized sales data. The project seeks to address critical challenges:
+
+- Identifying the most lucrative markets and products.
+- Assessing the impact of marketing strategies and brand ambassador engagements.
+- Optimizing pricing to improve profit margins.
+- Targeting sales efforts to boost the monthly sales rate per account.
+
+The outcomes of this project are pivotal for developing an informed sales strategy.
+
+## Industry-Specific Challenges
+
+Tequila, as a controlled substance, presents distinct challenges in the market. The United States enforces a three-tier system separating production, distribution, and retail, while Canadian provinces maintain their own regulatory controls. For the company, it is imperative to:
+
+- Adhere to the legal frameworks of federal and provincial laws.
+- Plan strategically for market entry and growth.
+- Align marketing strategies with regional regulations.
+- Streamline supply chain management for cost-efficiency and effectiveness.
+
+The data analysis incorporates these regulatory elements to provide compliant and insightful results.
+
+## Dataset Description
+
+This section details the various data points collected by the company, reflecting sales performance, market segmentation, and operational metrics.
+
+### SKU Information
+- **Basic SKUs**: The core products of the company.
+  - *Tequila Plata*
+  - *Tequila Reposado*
+  - *Tequila Anejo*
+- **Luxury SKUs**: Premium products with superior quality, packaging, and price. Introduced to the markets in late 2022.
+  - *Tequila Supremo*
+  - *Tequila Wooden Cask*
+  - *Tequila Vivo*
+
+### Sales and Market Data
+- **Country**: The country where products are sold.
+- **State/Province/Market**: Specific market within the country.
+- **Year**: The year when sales occurred.
+- **Month**: The month when sales occurred.
+- **Full Date**: The exact date of the recorded sales data.
+- **Market Manager**: The individual managing the respective market.
+
+### Financial Metrics
+- **Cost of Goods Sold**: The production cost for the products.
+- **Sell Price**: The wholesale price at which goods are sold.
+- **Profit**: Earnings calculated from the cost and sell price.
+- **Profit Margin**: The percentage of profit in relation to the sell price.
+- **Sales (4.5 L Cases)**: Monthly sales volume in the market, measured in 4.5-liter cases.
+- **Revenue from Sales**: Total revenue generated from monthly sales.
+- **Profit of Sales**: Profit derived from sales in that month.
+- **Accounts Sold**: The number of accounts to which the company sold products in that month. The company only started tracking this metric in 2023 and only in markets where the distributor's system is capable.
+- **Monthly Rate of Sales per Account**: The sales rate, based on the volume sold and the number of accounts.
+
+### Marketing and Distribution Data
+- **Number of Tequila Tastings/Samplings**: The count of marketing events like tastings/samplings conducted.
+- **Distributor Size**: Categorized as Large, Medium, or Small, based on the volume they manage as whole in the market.
+- **Market Type**: Classified as Free Market or Controlled Market.
+- **Brand Ambassador Hired**: Indicates whether a brand ambassador was employed (Yes/No).
+- **Number of Brand Ambassadors**: The total count of brand ambassadors engaged.
+- **Top 10 Tequila Market**: Specifies if the market is among the top 10 for tequila sales (Yes/No).
+
+## Data Analysis
+
+### Data Integration and Standardization
+
+The initial stage involved consolidating data from multiple reporting systems that used different units of measurement, such as 9L cases, 4.5L cases, or individual bottles. The company standardizes data to 4.5L cases (6x750ml bottles) to reflect its product packaging standards. This standardization is crucial for:
+
+- Maintaining data consistency across analyses.
+- Enabling precise comparisons across diverse data sets.
+- Laying a dependable groundwork for actionable insights.
+
+### Exploratory Data Analysis (EDA)
+
+The EDA is executed in a Jupyter Notebook, with a focus on:
+
+- **Data Cleaning:** Rectifying issues like missing values, duplicates, and inconsistencies.
+- **Data Transformation:** Modifying data structures for analysis, including normalization and aggregation.
+- **Statistical Analysis:** Applying descriptive statistics to understand the data's properties.
+- **Correlation Analysis:** Exploring relationships within the data to guide sales strategy formulation.
+
+### Data Visualization with Tableau
+
+Tableau's powerful visualization tools are employed to:
+
+- Construct interactive dashboards for immediate insight access.
+- Generate clear visualizations that convey complex data to a broad audience.
+- Provide dynamic filtering options for a personalized analysis experience.
+
+## Dashboard User Guide
+
+_Coming soon — A comprehensive guide on navigating and utilizing the sales data dashboard._
+
+## Conclusion
+
+Through thorough data analysis and the development of accessible visualizations, the project facilitates a transition to data-driven decision-making for the company, ensuring adherence to industry regulations and navigating through the intricacies of data integration.
