@@ -98,9 +98,35 @@ Tableau's powerful visualization tools are employed to:
 - Generate clear visualizations that convey complex data to a broad audience.
 - Provide dynamic filtering options for a personalized analysis experience.
 
-## Dashboard User Guide
+# Dashboard User Guide
 
-_Coming soon — A comprehensive guide on navigating and utilizing the sales data dashboard._
+## Visualizations
+
+### 1. Interactive Map of North American Markets
+- **Function:** Displays each market in North America.
+- **Details on Hover:**
+  - Market/State/Province name.
+  - Total case sales in 4.5L units.
+  - Revenue and profit figures in dollars.
+
+### 2. Bar Chart: Top Markets by Case Sales and Revenue
+- **Purpose:** Showcases leading markets by case sales and revenue.
+- **Features:** Comparative view of top performing markets.
+
+### 3. Line Chart: Monthly Case Sales Trends
+- **Function:** Presents monthly case sales data.
+- **Insights:** Visualizes trends and seasonal sales variations.
+
+### 4. Multi-Level Bar Chart: Market Manager Performance by SKU
+- **Details:** Breakdown of performance by Market Manager.
+- **Data Displayed:** Each manager’s sales figures by SKU.
+
+## Filters for Custom Analysis
+
+- **SKU:** Focus on specific product lines.
+- **Year:** Select the year for sales data.
+- **Quarter:** Choose a specific quarter for detailed insights.
+- **Market Manager:** View data for a specific manager's region.
 
 ## Conclusion
 
