@@ -98,35 +98,73 @@ Tableau's powerful visualization tools are employed to:
 - Generate clear visualizations that convey complex data to a broad audience.
 - Provide dynamic filtering options for a personalized analysis experience.
 
-# Dashboard User Guide
+## Dashboard User Guide
 
-## Visualizations
+### Visualizations
 
-### 1. Interactive Map of North American Markets
+#### 1. Interactive Map of North American Markets
 - **Function:** Displays each market in North America.
 - **Details on Hover:**
   - Market/State/Province name.
   - Total case sales in 4.5L units.
   - Revenue and profit figures in dollars.
 
-### 2. Bar Chart: Top Markets by Case Sales and Revenue
+#### 2. Bar Chart: Top Markets by Case Sales and Revenue
 - **Purpose:** Showcases leading markets by case sales and revenue.
 - **Features:** Comparative view of top performing markets.
 
-### 3. Line Chart: Monthly Case Sales Trends
+#### 3. Line Chart: Monthly Case Sales Trends
 - **Function:** Presents monthly case sales data.
 - **Insights:** Visualizes trends and seasonal sales variations.
 
-### 4. Multi-Level Bar Chart: Market Manager Performance by SKU
+#### 4. Multi-Level Bar Chart: Market Manager Performance by SKU
 - **Details:** Breakdown of performance by Market Manager.
 - **Data Displayed:** Each manager’s sales figures by SKU.
 
-## Filters for Custom Analysis
+### Filters for Custom Analysis
 
 - **SKU:** Focus on specific product lines.
 - **Year:** Select the year for sales data.
 - **Quarter:** Choose a specific quarter for detailed insights.
 - **Market Manager:** View data for a specific manager's region.
+
+## Key Findings from Data Analysis
+
+### Top 5 Markets by Case Sales and Revenue
+Our analysis revealed the top-performing markets in terms of case sales and revenue:
+
+1. **Ontario, Canada**: Leading with over 8,500 cases sold and revenue exceeding 1 million dollars.
+2. **Georgia, USA**: Follows closely with 7,500+ cases and over $950,000 in revenue.
+3. **California, USA**: Shows strong performance with 5,500+ cases and $750,000+ in revenue.
+4. **Florida, USA**: Records sales of 5,000+ cases and revenue around $699,000.
+5. **Oklahoma, USA**: Contributes significantly with 4,000+ cases and $480,000+ in revenue.
+
+These markets are pivotal for our strategic focus and resource allocation.
+
+### Most Profitable Products
+- **Tequila Vivo**: Despite lower sales volume (731 cases), it's the most profitable per case, averaging $308 profit per case.
+- **Tequila Plata**: This product stands out for its high volume sales (32,000+ cases), offsetting its lower profit per case of $59.91.
+
+Understanding product profitability helps in prioritizing production and marketing efforts.
+
+### Seasonal Sales Peaks
+Our analysis highlights clear seasonal trends in tequila sales:
+- **Q1 Slump**: Sales drop consistently in Q1 (January to March).
+- **Pre-Cinco de Mayo Rise**: A significant sales increase is observed before Cinco de Mayo.
+- **Summer Slight Increase**: Sales moderately rise during summer months.
+- **OND Boost**: A notable surge in sales during the "OND" months (October, November, December), aligning with the holiday season.
+
+This seasonality guides our marketing and stock planning.
+
+### Impact of Tequila Tastings/Samplings on Sales
+- **Direct Correlation**: The regression analysis shows a significant impact of tastings on sales, with a P-Value < 0.0001. An increase of 3.56 cases sold is observed for every tasting event conducted.
+
+This insight emphasizes the importance of tastings as a tool to boost sales.
+
+### Impact of Brand Ambassadors on Sales
+- **Positive Influence**: The presence of Brand Ambassadors correlates strongly with increased sales (P-Value < 0.0001). On average, markets with Brand Ambassadors see an increase of 11.58 cases sold per month.
+
+The data underscores the value of investing in Brand Ambassadors as part of our marketing strategy.
 
 ## Conclusion
 
