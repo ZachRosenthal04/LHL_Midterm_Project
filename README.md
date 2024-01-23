@@ -139,7 +139,7 @@ Our analysis revealed the top-performing markets in terms of case sales and reve
 4. **Florida, USA**: Records sales of 5,000+ cases and revenue around $699,000.
 5. **Oklahoma, USA**: Contributes significantly with 4,000+ cases and $480,000+ in revenue.
 
-These markets are pivotal for our strategic focus and resource allocation.
+These markets are pivotal for strategic focus and resource allocation.
 
 ### Most Profitable Products
 - **Tequila Vivo**: Despite lower sales volume (731 cases), it's the most profitable per case, averaging $308 profit per case.
@@ -154,7 +154,7 @@ Our analysis highlights clear seasonal trends in tequila sales:
 - **Summer Slight Increase**: Sales moderately rise during summer months.
 - **OND Boost**: A notable surge in sales during the "OND" months (October, November, December), aligning with the holiday season.
 
-This seasonality guides our marketing and stock planning.
+This seasonality guides marketing and stock planning.
 
 ### Impact of Tequila Tastings/Samplings on Sales
 - **Direct Correlation**: The regression analysis shows a significant impact of tastings on sales, with a P-Value < 0.0001. An increase of 3.56 cases sold is observed for every tasting event conducted.
@@ -164,7 +164,7 @@ This insight emphasizes the importance of tastings as a tool to boost sales.
 ### Impact of Brand Ambassadors on Sales
 - **Positive Influence**: The presence of Brand Ambassadors correlates strongly with increased sales (P-Value < 0.0001). On average, markets with Brand Ambassadors see an increase of 11.58 cases sold per month.
 
-The data underscores the value of investing in Brand Ambassadors as part of our marketing strategy.
+The data underscores the value of investing in Brand Ambassadors as part of the marketing strategy.
 
 ## Conclusion
 
